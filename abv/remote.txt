@@ -1,3 +1,5 @@
 first line
 
 in remote
+
+conflict should occur
